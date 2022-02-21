@@ -59,10 +59,13 @@ A guide about painting Warhammer, DnD, and 3D printed Miniatures
   - Put down 2 different colors of paints, and with the brush, start mixing paint towards the other color
   - Need to use **Layer** consistency, or anything wetter
   - Paint dries more quickly the more water added, so we'd also need a **retardant** to slow drying time
+  - Cannot use Opposite colors. Wet blending only works with color with similiar **Hues**, OR colors with similiar **Saturation**, or else the color would blend in the middle.
+  - If you need to blend 2 different Hues or Saturated colors, use **Glazing**
 
 - **Feathering**
   - Just like Wet blending, but using water to fade away color instead of blending 2 color
   - Can use **Glaze**, **Layer**, or **Wash** consistency
+  - And just like blending, the color beneath needs to have similiar hues OR similiar saturation
 
 - **Glazing**
   - Use this to Blend between two different colors, with a **Glaze** paint consistency
@@ -82,3 +85,17 @@ A guide about painting Warhammer, DnD, and 3D printed Miniatures
   - Dry brushing only works for adding highlights
   - Uses no water, 100% paint
   - After putting paint on the brush, dab some of the colors on a paper towel
+
+
+## Object Source Lighting 
+- Creating a glow light source requires some considerations:
+  1. Light source and lit areas are brighter than unlit areas
+  2. Light gets dimmer with distance. The further you go, the color changes towards the object's base color
+  3. Defined distinction light source color and the object's color.
+  4. Light source is brighter than reflections
+  5. Light moves in a straight line
+
+
+## Midtone, Shadow, Highlight
+- The base color is a midtone, the color between the highlight and shadow
+
