@@ -1,8 +1,6 @@
 # Miniature-Painting-Guide
 A guide about painting Warhammer, DnD, and 3D printed Miniatures
 
-# Miniature Painting Guide
-
 ## Paint Consistency
 - **Consistency =** Is written as Ratio in **water:paint**
 - **Base =** 25% water : 75% paint
